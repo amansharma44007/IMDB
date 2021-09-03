@@ -1,0 +1,13 @@
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.csproj.AssemblyReference.cache
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.AssemblyInfoInputs.cache
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.AssemblyInfo.cs
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\bin\Debug\netcoreapp3.1\IMDB.Repository.deps.json
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\bin\Debug\netcoreapp3.1\IMDB.Repository.dll
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\bin\Debug\netcoreapp3.1\IMDB.Repository.pdb
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\bin\Debug\netcoreapp3.1\IMDB.Domain.dll
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\bin\Debug\netcoreapp3.1\IMDB.Domain.pdb
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.csproj.CopyComplete
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.dll
+C:\Users\Hp User\source\repos\IMDB\IMDB.Repository\obj\Debug\netcoreapp3.1\IMDB.Repository.pdb
